@@ -1,2 +1,2 @@
 # hellow-world
-just a biganning
+just a biginning
